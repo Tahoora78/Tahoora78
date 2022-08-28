@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tahoora78&show_icons=true&theme=monokai" alt="Tahoora Majlesi's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahoora78&theme=monokai" alt="Amirhasan Sadatmand's Github Steak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahoora78&theme=monokai" alt="Tahoora Majlesi's Github Steak" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahoora78&langs_count=6&theme=dark" alt="Tahoora Majlesi's Github Steak" />
 </p>
