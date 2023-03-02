@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/)
 - 📚 Interested in Artificial intelligence and Software Engineering 
+- 👨‍💻 I am currently working as a software engineer at [Digikala](https://www.digikala.com/)
 - 👯 I’m looking to collaborate on Machine learning and python projects
 - 📫 You can reach me by:<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/tahoora-majlesi/)
