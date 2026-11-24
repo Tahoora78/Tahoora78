@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on software engineering and Machine learning projects
 - 📫 You can reach me by:<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/tahoora-majlesi/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahuoramajlesi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahooramajlesi@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/tahooramajlesi)
 - ⚡ Fun fact: :)
 
